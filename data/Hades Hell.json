@@ -1,1 +1,18 @@
-
+{
+    "id": 80993342,
+    "name": "Hades Hell",
+    "author": "GDVenom1",
+    "creators": ["DanMaster007"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=nO7sDmzBGCg",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Kayla",
+            "link": "https://www.youtube.com/watch?v=heuHL_7XULk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
