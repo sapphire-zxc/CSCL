@@ -1,1 +1,18 @@
-
+{
+    "id": 61595973,
+    "name": "Gloom",
+    "author": "BoBoBoBoBoBoBo",
+    "creators": ["BoBoBoBoBoBoBo"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?time_continue=6&v=0JMkDg2qDqM",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Kayla",
+            "link": "https://www.youtube.com/watch?v=e9I6jF6l0lg",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
