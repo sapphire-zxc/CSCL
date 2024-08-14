@@ -1,0 +1,18 @@
+{
+    "id": 60050144,
+    "name": "Vain",
+    "author": "  Haunter704",
+    "creators": ["LimeTime313"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?time_continue=3&v=VrSCUQ0J6KM",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Hykre",
+            "link": "https://www.youtube.com/watch?v=PmJgMhpCMiY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
