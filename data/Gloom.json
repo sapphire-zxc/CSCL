@@ -1,0 +1,18 @@
+{
+    "id": 61595973,
+    "name": "Gloom",
+    "author": "xEl3cTr0",
+    "creators": ["xEl3cTr0"],
+    "verifier": "GDVenom1",
+    "verification": "https://www.youtube.com/watch?v=C6oMNjjoQTE",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Kayla",
+            "link": "https://www.youtube.com/watch?v=CNtc0_DPFmA",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
