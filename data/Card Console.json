@@ -1,1 +1,18 @@
-
+{
+    "id": 60050144,
+    "name": "Card Console",
+    "author": "Nyan Cat",
+    "creators": ["Nyan Cat"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=7BHZ8lcwCxs",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Hykre",
+            "link": "https://youtu.be/DY3cy6MeWTU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
