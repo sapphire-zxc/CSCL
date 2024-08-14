@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h4>Submission Requirements</h4>
+                    <h2>Submission Requirements</h2>
                     <p>
                         Achieved the record without using hacks (Physics Bypass ISN'T allowed, FPS Bypass is allowed up to 360FPS, CBF is allowed.)
                     </p>
