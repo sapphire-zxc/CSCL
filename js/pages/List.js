@@ -86,7 +86,6 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
@@ -98,7 +97,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h2>Submission Requirements</h2>
+                    <h2>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (Physics Bypass ISN'T allowed, FPS Bypass is allowed up to 360FPS, CBF is allowed.)
                     </p>
@@ -123,6 +122,7 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                 </div>
             </div>
         </main>
