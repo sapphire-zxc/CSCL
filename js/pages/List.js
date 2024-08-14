@@ -98,9 +98,9 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h4>Submission Requirements</h4>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (Physics Bypass ISN'T allowed, FPS Bypass is allowed up to 360FPS, CBF is allowed.)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
