@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Sad Chamber",
+    "author": "Fossa",
+    "creators": ["Yossarian", "Fossa", "Toastii"],
+    "verifier": "Fossa",
+    "verification": "https://www.youtube.com/watch?v=5D2gTvCJwAk",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Kayla",
+            "link": "https://www.youtube.com/watch?v=RWHwCxqasOU",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
