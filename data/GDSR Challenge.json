@@ -1,0 +1,18 @@
+{
+    "id": 68073068,
+    "name": "GDSR Challenge",
+    "author": "Seebi",
+    "creators": ["Seebi"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=0escLRvFQBw",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/CRtjiQmMHvM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
