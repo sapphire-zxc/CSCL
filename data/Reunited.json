@@ -1,1 +1,18 @@
-
+{
+    "id": 81714554,
+    "name": "Reunited",
+    "author": "Capamari",
+    "creators": ["Capamari"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=LFHXKMLefp0",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/7lpueJjDADI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
