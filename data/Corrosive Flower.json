@@ -1,1 +1,18 @@
-
+{
+    "id": 59843187,
+    "name": "Corrosive Flower",
+    "author": "ArtsiBurn",
+    "creators": ["ArtsiBurn", "zEl3cTr0"],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=5i_Q2YggGkI",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "geo",
+            "link": "https://youtu.be/L0byVRkQ9IA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
